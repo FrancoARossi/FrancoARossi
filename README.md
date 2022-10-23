@@ -1,5 +1,5 @@
 # 💫 About Me:
-🇦🇷 I'm a semi-senior React developer located on Argentina.<br>👨🏻‍💻 I've worked on various startups with people from around the world!<br>🗣️ Besides spanish, which is my native languaje, I can speak english at an advanced level.<br>🏃‍♂️ I also have plenty of experience working with agile methodologies.
+🇦🇷 I'm a semi-senior React developer based in Argentina.<br>👨🏻‍💻 I've worked on various startups with people from around the world!<br>🗣️ Besides spanish, which is my native languaje, I can speak english at an advanced level.<br>🏃‍♂️ I also have plenty of experience working with agile methodologies.
 
 
 ## 🌐 Socials:
