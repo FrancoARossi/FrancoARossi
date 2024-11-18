@@ -9,3 +9,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=FrancoARossi&icon=5&color=0)](https://visitcount.itsvg.in)
+
+---
+[![aws-certified-solutions-architect-associate](https://github.com/user-attachments/assets/d8b7233f-cf05-45f6-957c-21f2817eacfa)](https://www.credly.com/badges/19c40fd4-1c1b-4b3a-a9a9-63478c588be1/public_url)
